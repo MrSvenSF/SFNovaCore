@@ -1,0 +1,8 @@
+name: SFNovaCore
+version: '0.1'
+main: DE.MrSvenSF.SF.SFNovaCore
+api-version: '1.21'
+prefix: SF
+authors: [ MrSvenSF ]
+description: commands and more
+website: https://sfnovacore.com/
